@@ -1,0 +1,23 @@
+{
+  "name": "cpathunimol catalog",
+  "description": "QuPath extensions from cpathunimol-cmyk",
+  "extensions": [
+    {
+      "name": "QuPath Claude Code extension",
+      "description": "Ask Claude Code about the current image and generate Groovy scripts",
+      "author": "cpathunimol-cmyk",
+      "homepage": "https://github.com/cpathunimol-cmyk/qupath-extension-claude",
+      "starred": false,
+      "releases": [
+        {
+          "name": "v0.1.0",
+          "main_url": "https://github.com/cpathunimol-cmyk/qupath-extension-claude/releases/download/v0.1.0/qupath-extension-claude-0.1.0.jar",
+          "javadoc_urls": [
+            "https://github.com/cpathunimol-cmyk/qupath-extension-claude/releases/download/v0.1.0/qupath-extension-claude-0.1.0-javadoc.jar"
+          ],
+          "version_range": { "min": "v0.7.0" }
+        }
+      ]
+    }
+  ]
+}
